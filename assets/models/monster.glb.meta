@@ -1,0 +1,181 @@
+{
+  "ver": "2.0.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a05935b7-7b96-4074-8c21-7564df25f525",
+  "files": [],
+  "subMetas": {
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed341": {
+      "importer": "gltf-mesh",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@ed341",
+      "displayName": "",
+      "id": "ed341",
+      "name": "Sphere.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c0b1": {
+      "importer": "gltf-mesh",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@6c0b1",
+      "displayName": "",
+      "id": "6c0b1",
+      "name": "Sphere.008.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7544b": {
+      "importer": "gltf-mesh",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@7544b",
+      "displayName": "",
+      "id": "7544b",
+      "name": "Sphere.009.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "825ed": {
+      "importer": "gltf-mesh",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@825ed",
+      "displayName": "",
+      "id": "825ed",
+      "name": "Sphere.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1043e": {
+      "importer": "gltf-material",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@1043e",
+      "displayName": "",
+      "id": "1043e",
+      "name": "Material.002.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9549": {
+      "importer": "gltf-material",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@a9549",
+      "displayName": "",
+      "id": "a9549",
+      "name": "Material.003.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e736c": {
+      "importer": "gltf-material",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@e736c",
+      "displayName": "",
+      "id": "e736c",
+      "name": "Material.004.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "638a2": {
+      "importer": "gltf-scene",
+      "uuid": "a05935b7-7b96-4074-8c21-7564df25f525@638a2",
+      "displayName": "",
+      "id": "638a2",
+      "name": "monster.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "a05935b7-7b96-4074-8c21-7564df25f525@638a2",
+    "assetFinder": {
+      "meshes": [
+        "a05935b7-7b96-4074-8c21-7564df25f525@ed341",
+        "a05935b7-7b96-4074-8c21-7564df25f525@6c0b1",
+        "a05935b7-7b96-4074-8c21-7564df25f525@7544b",
+        "a05935b7-7b96-4074-8c21-7564df25f525@825ed"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a05935b7-7b96-4074-8c21-7564df25f525@1043e",
+        "a05935b7-7b96-4074-8c21-7564df25f525@a9549",
+        "a05935b7-7b96-4074-8c21-7564df25f525@e736c",
+        "a05935b7-7b96-4074-8c21-7564df25f525@99380"
+      ],
+      "scenes": [
+        "a05935b7-7b96-4074-8c21-7564df25f525@638a2"
+      ]
+    }
+  }
+}

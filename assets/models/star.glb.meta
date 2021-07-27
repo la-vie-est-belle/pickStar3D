@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9013ecb4-e418-45e2-992a-830ec8b427d2",
+  "files": [],
+  "subMetas": {
+    "71209": {
+      "importer": "gltf-scene",
+      "uuid": "9013ecb4-e418-45e2-992a-830ec8b427d2@71209",
+      "displayName": "",
+      "id": "71209",
+      "name": "star.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "9013ecb4-e418-45e2-992a-830ec8b427d2@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed341": {
+      "importer": "gltf-mesh",
+      "uuid": "9013ecb4-e418-45e2-992a-830ec8b427d2@ed341",
+      "displayName": "",
+      "id": "ed341",
+      "name": "Sphere.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "9013ecb4-e418-45e2-992a-830ec8b427d2@71209",
+    "assetFinder": {
+      "meshes": [
+        "9013ecb4-e418-45e2-992a-830ec8b427d2@ed341"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9013ecb4-e418-45e2-992a-830ec8b427d2@99380"
+      ],
+      "scenes": [
+        "9013ecb4-e418-45e2-992a-830ec8b427d2@71209"
+      ]
+    }
+  }
+}
